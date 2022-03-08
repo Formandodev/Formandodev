@@ -33,4 +33,4 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
-![Snake animation](https://github.com/formandodev/formandodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
